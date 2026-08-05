@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img width="100%" alt="désiré-doué-desire-doue" src="https://github.com/user-attachments/assets/40012070-0062-4b21-a874-1b85b73acfb6" />
+  <img width="204" height="363" alt="lewis-hamilton-ferrari" src="https://github.com/user-attachments/assets/9b4a2274-cba2-4a21-b578-9889b96bbd8a" />
 </p>
 
 <h1 align="center">Heeeey, nice to see you there</h1>
