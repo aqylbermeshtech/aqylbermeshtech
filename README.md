@@ -4,4 +4,3 @@
 </p>
 
 <h1 align="center">Heeeey, nice to see you there</h1>
-<h3 align="center">Computer Science enjoyer</h3>
