@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="204" height="363" alt="lewis-hamilton-ferrari" src="https://github.com/user-attachments/assets/9b4a2274-cba2-4a21-b578-9889b96bbd8a" />
+  <img width="287" height="287" alt="mbappe-mbappe-2018" src="https://github.com/user-attachments/assets/caf94dcf-be8a-447b-a02e-6be3066c52f7" />
 </p>
 
 <h1 align="center">Heeeey, nice to see you there</h1>
